@@ -41,3 +41,9 @@ Dual Axis
 * http://bl.ocks.org/d3noob/e34791a32a54e015f57d
 * https://stackoverflow.com/questions/34291972/d3-js-multiple-y-axis-with-same-position-of-ticks
 * http://www.d3noob.org/2013/01/using-multiple-axes-for-d3js-graph.html
+
+## Zotero Export
+Using: https://github.com/plandes/zotsite
+```
+zotsite export -o nutrition --collection 'Nutrition'
+```
